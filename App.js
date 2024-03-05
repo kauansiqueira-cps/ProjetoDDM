@@ -7,6 +7,8 @@ export default function App() {
       <Text>Pedro Henrique de Oliveira Dos Santos</Text>
       <Text>Kauan Guilherme Siqueira</Text>
       <Text>05/03/2024 DDM 3B3 Lado B</Text>
+
+      <Text>Novo Commit Clone</Text>
       <StatusBar style="auto" />
     </View>
   );
