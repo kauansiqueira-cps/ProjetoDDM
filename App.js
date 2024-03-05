@@ -6,7 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Pedro Henrique de Oliveira Dos Santos</Text>
       <Text>Kauan Guilherme Siqueira</Text>
-      <Text>Desenvolvimento de Dispositivos Móveis</Text>
+      <Text>05/03/2024 DDM 3B3 Lado B</Text>
       <StatusBar style="auto" />
     </View>
   );
